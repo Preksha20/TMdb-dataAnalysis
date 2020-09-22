@@ -1,5 +1,5 @@
 # TMdb-dataAnalysis
-Udacity--Project-Investigate-TMDB-Movies-Dataset
+Project-Investigate-TMDB-Movies-Dataset
 
 Project Overview
 
@@ -28,3 +28,8 @@ Have practice communicating the results of your analysis
 Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
 Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
 Know how to use Matplotlib to produce plots showing your findings
+
+Credits: 
+
+https://classroom.udacity.com/courses
+Data Analyst Nanodegree Program
